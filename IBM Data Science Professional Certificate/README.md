@@ -26,12 +26,12 @@ in this case?
 ## Week 2 : Exploratory Data Analysis (EDA)<a name = "week2"></a>
 
 - [Exploratory Analysis Using SQL](https://github.com/ViktorGakis/Certifications/blob/master/IBM%20Data%20Science%20Professional%20Certificate/EDA_data_SQL.ipynb)
-- [Exploratory Analysis Using Pandas and Matplotlib](https://github.com/ViktorGakis/Certifications/blob/master/IBM%20Data%20Science%20Professional%20Certificate/EDA_data_SQL.ipynb)
+- [Exploratory Analysis Visually](https://github.com/ViktorGakis/Certifications/blob/master/IBM%20Data%20Science%20Professional%20Certificate/EDA_data_SQL.ipynb)
 
 ## Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
 
 - [Interactive Visual Analytics with Folium](https://github.com/ViktorGakis/Certifications/blob/master/IBM%20Data%20Science%20Professional%20Certificate/Launch_site_location_Folium.ipynb)
-- [Plotly](https://github.com/ViktorGakis/Certifications/blob/master/IBM%20Data%20Science%20Professional%20Certificate/spacex_dash_app.py)
+- [Dashboard with Dash(Plotly)](https://github.com/ViktorGakis/Certifications/blob/master/IBM%20Data%20Science%20Professional%20Certificate/spacex_dash_app.py)
 
 ## Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
 
