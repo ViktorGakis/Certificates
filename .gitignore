@@ -1,1 +1,6 @@
 .vscode/
+hidden/
+.vscode/
+10. Applied Data Science Capstone/
+__pycache__/
+creditcard.csv
