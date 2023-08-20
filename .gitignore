@@ -1,6 +1,26 @@
+.gitignore
 .vscode/
 hidden/
 .vscode/
 10. Applied Data Science Capstone/
 __pycache__/
 creditcard.csv
+student_transformed.csv/
+student_transformed.parquet/
+student-hw-single.parquet/
+student-hw.csv
+student-hw.csv
+diamonds.csv
+drybeans.csv
+iris.csv
+mpg.csv
+seeds.csv
+student-hw.parquet/
+diamond_model/
+model_storage/
+diamonds.csv.1
+iris.csv.1
+mpg.csv.1
+mpg.csv.2
+proverbs.csv
+NASA_airfoil_noise_raw.csv
